@@ -5,4 +5,8 @@ const numbers = 5;
 let addres = { city: "pabna", postCode: 5656 }
 console.log(addres?.hom?.building);
 const a = "abul"
-    // a = "bubul"
+// a = "bubul" 
+
+
+const arr = [1, 2, 3];
+arr.slice(-2, 0);
